@@ -1,0 +1,27 @@
+
+@use "variables" as variables;
+
+@mixin resets {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+}
+
+@mixin Flex {
+    display: flex;
+}
+
+@mixin Center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin mixHeader {
+    background-color:#D1F3FF;
+    border-radius: 20px;
+    height: 70px;
+}
+
