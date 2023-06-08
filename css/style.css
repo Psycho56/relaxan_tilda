@@ -1379,6 +1379,7 @@ h1 .bg {
     color: #fff;
   }
   .header__row {
+    overflow-x: hidden;
     margin-top: 60px;
   }
   .header__row .text-beauty {
