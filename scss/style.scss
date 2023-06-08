@@ -1314,9 +1314,6 @@ h1 {
 
 
 @media  screen and (max-width:600px) {
-  body {
-    overflow-x: hidden !important;
-  }
   .navbar {
     margin: 0;
     display: none;
@@ -1387,7 +1384,6 @@ h1 {
   }
  
   .header__row {
-    overflow-x: hidden;
   margin-top: 60px;
     .text-beauty {
       width: 100%;
@@ -1451,6 +1447,7 @@ h1 {
     }
     .animation-images {
       width: 100%;
+      overflow-x: hidden;
       .back {
         width: 100%;
         left: 0px;

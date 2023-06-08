@@ -1311,9 +1311,6 @@ h1 .bg {
   }
 }
 @media screen and (max-width: 600px) {
-  body {
-    overflow-x: hidden !important;
-  }
   .navbar {
     margin: 0;
     display: none;
@@ -1379,7 +1376,6 @@ h1 .bg {
     color: #fff;
   }
   .header__row {
-    overflow-x: hidden;
     margin-top: 60px;
   }
   .header__row .text-beauty {
@@ -1434,6 +1430,7 @@ h1 .bg {
   }
   .header__row .animation-images {
     width: 100%;
+    overflow-x: hidden;
   }
   .header__row .animation-images .back {
     width: 100%;
