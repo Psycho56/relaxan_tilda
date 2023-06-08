@@ -1573,6 +1573,9 @@ h1 .bg {
   .modal-row .modal-cards #exampleModal2 .modal-dialog .second_modal_content .modal-body .three_cards .card {
     width: 100%;
   }
+  .middle-images {
+    display: none;
+  }
   .blueberry {
     display: none;
   }
