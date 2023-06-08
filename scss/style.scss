@@ -1327,11 +1327,7 @@ h1 {
     background: rgba(255, 255, 255, 0.62);
     backdrop-filter: blur(5.5px);
     border-radius: 0px 0px 10px 10px;
-    position: fixed;
-    z-index: 100;
     width: 100%;
-    overflow-x: hidden;
-    top: 0;
     .nav-icon {
       @include resets.Flex;
       flex-direction: column;
@@ -1388,7 +1384,7 @@ h1 {
   }
  
   .header__row {
-  margin-top: 100px;
+  margin-top: 60px;
     .text-beauty {
       width: 100%;
       .beauty-red {
@@ -1405,6 +1401,11 @@ h1 {
         }
       }
       .capsules {
+        position: relative;
+        h1 {
+          position: absolute !important;
+          left: -13% !important;
+        }
         .capsule {
           h3 {
             font-size: 20px !important;
