@@ -1329,7 +1329,7 @@ h1 {
     border-radius: 0px 0px 10px 10px;
     position: fixed;
     z-index: 100;
-    width: 100%;
+    width: 100% !important;
     top: 0;
     .nav-icon {
       @include resets.Flex;
