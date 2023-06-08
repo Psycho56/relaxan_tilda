@@ -1314,6 +1314,9 @@ h1 {
 
 
 @media  screen and (max-width:600px) {
+  body {
+    overflow-x: hidden;
+  }
   .navbar {
     margin: 0;
     display: none;
