@@ -26,7 +26,7 @@ body * {
 .navbar {
   background-color: #D2A0E6;
   position: relative;
-  background: linear-gradient(#D2A0E6);
+  background: linear-gradient(#d2a0e6);
   backdrop-filter: blur(15px);
   margin-top: 15px;
 }
@@ -45,7 +45,7 @@ body * {
   padding: 10px;
   position: sticky;
   top: 1%;
-  background: #FFFFFF;
+  background: #ffffff;
   opacity: 0;
   margin: 0 auto;
   z-index: 4;
@@ -221,7 +221,7 @@ body * {
   position: absolute;
   height: 40%;
   bottom: 30px;
-  background: linear-gradient(360deg, #D2A0E6 42.62%, rgba(210, 160, 230, 0) 100%);
+  background: linear-gradient(360deg, #d2a0e6 42.62%, rgba(210, 160, 230, 0) 100%);
   z-index: -1;
 }
 .header__row .animation-images .back {
@@ -229,7 +229,7 @@ body * {
   position: absolute;
   height: 20%;
   top: -10px;
-  background: linear-gradient(180deg, #D2A0E6 42.62%, rgba(210, 160, 230, 0) 100%);
+  background: linear-gradient(180deg, #d2a0e6 42.62%, rgba(210, 160, 230, 0) 100%);
   z-index: 1;
 }
 .header__row .animation-images .rotating-img {
@@ -352,7 +352,7 @@ h1 .bg {
   justify-content: space-evenly;
 }
 .modal-cards .first_modal_card, .modal-cards .second_modal_card {
-  background: linear-gradient(132deg, #FFC700 0%, #FFF625 100%);
+  background: linear-gradient(132deg, #ffc700 0%, #fff625 100%);
   border-radius: 30px;
   padding: 15px;
   margin-top: 55px;
@@ -504,7 +504,7 @@ h1 .bg {
   bottom: 20px;
 }
 .modal-cards .first_modal_content .modal-body .three_cards .card .btn-bottom .btn {
-  background-color: #E3E3E3;
+  background-color: #e3e3e3;
   border-radius: 50px;
   font-weight: 550;
   padding: 0 16px;
@@ -534,7 +534,7 @@ h1 .bg {
 }
 .modal-cards .second_modal_card {
   padding-bottom: 35px;
-  background: linear-gradient(235deg, #03C700 0%, #92FF5C 100%);
+  background: linear-gradient(235deg, #03c700 0%, #92ff5c 100%);
 }
 .modal-cards .second_modal_card h1 {
   font-size: 50px;
@@ -569,7 +569,7 @@ h1 .bg {
   color: #fff;
 }
 .modal-cards .second_modal_content {
-  background-color: #FF917D;
+  background-color: #ff917d;
   border-radius: 40px;
 }
 .modal-cards .second_modal_content .modal-header .modal-title {
@@ -635,7 +635,7 @@ h1 .bg {
   justify-content: space-evenly;
 }
 .modal-cards .second_modal_content .modal-body .three_cards .card .btn-bottom .btn {
-  background-color: #E3E3E3;
+  background-color: #e3e3e3;
   border-radius: 50px;
   font-weight: 550;
   font-size: 20px;
@@ -653,11 +653,11 @@ h1 .bg {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 3px dotted #FF917D;
+  border: 3px dotted #ff917d;
 }
 .modal-cards .second_modal_content .modal-body .three_cards .card .btn-bottom .animated-border .bg-wrapper {
   border-radius: 50%;
-  background-color: #FF917D;
+  background-color: #ff917d;
 }
 .modal-cards .second_modal_content .modal-body .three_cards .card .btn-bottom .animated-border .bg-wrapper img {
   width: 78px;
@@ -901,7 +901,7 @@ h1 .bg {
   position: absolute;
   top: 14%;
   left: -1%;
-  color: #FD350A;
+  color: #fd350a;
 }
 .result .result-cards .card p {
   font-size: 24px;
@@ -1138,7 +1138,7 @@ h1 .bg {
   height: 612px;
   margin: 0 auto;
   border-radius: 50px;
-  box-shadow: -2px -2px 46px 0px #F2E3F8;
+  box-shadow: -2px -2px 46px 0px #f2e3f8;
   background-image: url(../assets/images/background-opacity.jpg), url(../assets/icons/grape.png), url(../assets/icons/lemon.png), url(../assets/icons/fruit.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1166,7 +1166,7 @@ h1 .bg {
   margin: 40px 0;
 }
 .opacity button {
-  background: #FCF800;
+  background: #fcf800;
   border-radius: 30px;
   width: 249px;
   height: 69px;
@@ -1203,14 +1203,14 @@ h1 .bg {
 .questions button {
   width: 692px;
   height: 94px;
-  background-color: #ED552C;
+  background-color: #ed552c;
   font-size: 37px;
   color: #fff;
   border-radius: 40px;
   margin: 14px 0;
 }
 .questions .btn2 {
-  background-color: #FFEA7F;
+  background-color: #ffea7f;
   color: #000;
 }
 .questions .dzen {
@@ -1291,7 +1291,7 @@ h1 .bg {
 }
 .footer p {
   width: 50%;
-  color: #FFF;
+  color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-size: 21px;
@@ -1334,20 +1334,20 @@ h1 .bg {
   .nav .nav-icon .one {
     width: 34px;
     height: 4.5px;
-    background-color: #FF1414;
+    background-color: #ff1414;
     border-radius: 10px;
     transition: 0.4s;
   }
   .nav .nav-icon .two {
     width: 45px;
     height: 4.5px;
-    background-color: #FF1414;
+    background-color: #ff1414;
     border-radius: 10px;
   }
   .nav .nav-icon .three {
     width: 34px;
     height: 4.5px;
-    background-color: #FF1414;
+    background-color: #ff1414;
     border-radius: 10px;
     transition: 0.4s;
   }
@@ -1359,14 +1359,14 @@ h1 .bg {
   }
   .nav .nav-text h3 {
     font-size: 40px;
-    color: #353B78;
+    color: #353b78;
     font-weight: 700;
   }
   .nav .nav-button button {
     padding: 10px 20px;
     font-weight: 550;
     letter-spacing: 1px;
-    background-color: #FFEA00;
+    background-color: #ffea00;
     border: none;
     border-radius: 11px;
     transition: 0.4s;
@@ -1430,7 +1430,6 @@ h1 .bg {
   }
   .header__row .animation-images {
     width: 100%;
-    overflow-x: hidden;
   }
   .header__row .animation-images .back {
     width: 100%;
